@@ -1,14 +1,8 @@
 #board {
-    margin: auto;
-    width: 50%;
     padding-top: 3em;
     text-align: center;
 }
 
-h1 {
-    width: 50%;
-    margin: auto;
-}
 
 .row > div {
     height: 100px;
@@ -18,8 +12,7 @@ h1 {
 
 .row {
     clear: both;
-    margin: 0;
-    width: 0 auto;
+    margin: 0 auto;
     width: 302px;
     cursor: pointer;
 }
